@@ -22,5 +22,6 @@
 <li><img width="32px" height="32px" src="https://jemsoftware.dev/images/email.ico"><a href="mailto:poffinbargej@uwplatt.edu"> Email</a></li>
 <li><img width="32px" height="32px" src="https://jemsoftware.dev/images/mastodon.ico"><a rel="me" href="https://mastodon.jemverse.xyz/@Jemma"> @jemma@mastodon.jemverse.xyz</a></li>
 <li><img width="32px" height="32px" src="https://jemsoftware.dev/images/twitter.ico"><a href="https://twitter.com/JemTanuki"> @JemTanuki</a></li>
+<li><img width="32px" height="32px" src="https://jemsoftware.dev/images/telegram.ico"><a href="https://t.me/JemTanuki"> @JemTanuki</a></li>
 <li><img width="32px" height="32px" src="https://jemsoftware.dev/images/discord.ico"><a> Jemma#6508</a></li>
 <li><img width="32px" height="32px" src="https://win98icons.alexmeub.com/icons/png/world-2.png"><a href="https://JemSoftware.dev"> Website</a></li>
