@@ -19,7 +19,7 @@
 
 <h2>Contact me:</h2>
 <li><img width="32px" height="32px" src="https://jemsoftware.dev/images/file.ico"><a rel="me" href="https://jemsoftware.dev/files/Resume.pdf"> Resume</a></li>
-<li><img width="32px" height="32px" src="https://jemsoftware.dev/images/email.ico"><a href="mailto:poffinbargej@uwplatt.edu"> Email</a></li>
+<li><img width="32px" height="32px" src="https://jemsoftware.dev/images/email.ico"><a href="mailto:Jemma@jemsoftware.dev"> Email</a></li>
 <li><img width="32px" height="32px" src="https://jemsoftware.dev/images/mastodon.ico"><a rel="me" href="https://mastodon.jemverse.xyz/@Jemma"> @jemma@mastodon.jemverse.xyz</a></li>
 <li><img width="32px" height="32px" src="https://jemsoftware.dev/images/twitter.ico"><a href="https://twitter.com/JemTanuki"> @JemTanuki</a></li>
 <li><img width="32px" height="32px" src="https://jemsoftware.dev/images/telegram.ico"><a href="https://t.me/JemTanuki"> @JemTanuki</a></li>
