@@ -1,6 +1,8 @@
-<h1 align="center">Hello! My name is Jemma!</h1>
+<h1 align="center">Howdy! My name is Jemma!</h1>
 <img src="https://komarev.com/ghpvc/?username=caramelkat&color=0000E5&style=flat-square">
-<h3 align="center">I'm a software researcher and backend developer. I specialize in the development of dynamic web applications and the reverse engineering of niche applications.</h3>
+<h3 align="center">I'm a full-stack developer currently attending the University of Wisconsin: Platteville. Most of my work consists of the reverse engineering and reimplementation of different services and APIs, as well as the development of smaller niche applications.
+
+While most of my work is with web applications, I have experience developing for iOS, Android, Windows, and more.</h3>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=caramelkat&show_icons=true&include_all_commits=true">
