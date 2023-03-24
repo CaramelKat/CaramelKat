@@ -20,10 +20,35 @@ While most of my work is with web applications, I have experience developing for
 </p>
 
 <h2>Contact me:</h2>
-<li><img width="32px" height="32px" src="https://jemsoftware.dev/images/file.ico"><a rel="me" href="https://jemsoftware.dev/files/Resume.pdf"> Resume</a></li>
-<li><img width="32px" height="32px" src="https://jemsoftware.dev/images/email.ico"><a href="mailto:Jemma@jemsoftware.dev"> Email</a></li>
-<li><img width="32px" height="32px" src="https://jemsoftware.dev/images/mastodon.ico"><a rel="me" href="https://mastodon.jemverse.xyz/@Jemma"> @jemma@mastodon.jemverse.xyz</a></li>
-<li><img width="32px" height="32px" src="https://jemsoftware.dev/images/twitter.ico"><a href="https://twitter.com/JemTanuki"> @JemTanuki</a></li>
-<li><img width="32px" height="32px" src="https://jemsoftware.dev/images/telegram.ico"><a href="https://t.me/JemTanuki"> @JemTanuki</a></li>
-<li><img width="32px" height="32px" src="https://jemsoftware.dev/images/discord.ico"><a> Jemma#6508</a></li>
-<li><img width="32px" height="32px" src="https://win98icons.alexmeub.com/icons/png/world-2.png"><a href="https://JemSoftware.dev"> Website</a></li>
+<ul class="wrapper list arrow-list icon-list">
+    <li class="shine">
+	<a href="files/Resume.pdf">
+	    <span>Resume</span>
+	</a>
+    </li>
+    <li>
+	<a href="https://www.linkedin.com/in/jemma-poffinbarger">
+	    <span>LinkedIn</span>
+	</a>
+    </li>
+    <li class="shine">
+	<a href="https://jemsoftware.dev">
+	    <span>Website</span>
+	</a>
+    </li>
+    <li>
+	<a href="mailto:contact@jemsoftware.dev">
+	    <span>E-Mail</span>
+	</a>
+    </li>
+    <li class="shine">
+	<a href="https://chitter.xyz/@Jemma">
+	    <span>Mastodon</span>
+	</a>
+    </li>
+    <li class="shine">
+	<a href="https://matrix.to/#/@jemma:jemverse.xyz">
+	    <span>Matrix</span>
+	</a>
+    </li>
+</ul>
