@@ -1,8 +1,8 @@
 <h1 align="center">Howdy! My name is Jemma!</h1>
 <img src="https://komarev.com/ghpvc/?username=caramelkat&color=0000E5&style=flat-square">
-<p>I'm a full-stack developer currently attending the University of Wisconsin: Platteville. Most of my work consists of the reverse engineering and reimplementation of different web services and APIs, as well as the development of smaller niche applications.
+<p>I'm an Embedded Systems Engineer at RFA Engineering. Most of my work consists of hardware and simulation testing of embedded devices. In my spare time I enjoy reverse engineering and reimplementing different web services and APIs, as well as the developing smaller niche applications. Check out my work over at <a href="https://github.com/PretendoNetwork">Pretendo</a>!
 
-While most of my work is with web applications, I have experience developing for iOS, Android, Windows, and more.</p>
+I also have experience developing for iOS, Android, Windows, and more.</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=caramelkat&show_icons=true&include_all_commits=true">
 
