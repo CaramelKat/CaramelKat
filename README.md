@@ -50,3 +50,6 @@ I also have experience developing for iOS, Android, Windows, and more.</p>
 	</a>
     </li>
 </ul>
+
+```math
+\ce{$\unicode[goombafont; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.15; background-position: center; background-image: url('https://github.com/CaramelKat/CaramelKat/blob/main/michiru.png?raw=true');]{x0000}$}
