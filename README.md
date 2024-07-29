@@ -1,52 +1,33 @@
-<h1 align="center">Howdy! My name is Jemma!</h1>
-<img src="https://komarev.com/ghpvc/?username=caramelkat&color=0000E5&style=flat-square">
-<p>I'm an Embedded Systems Engineer at RFA Engineering. Most of my work consists of hardware and simulation testing of embedded devices. In my spare time I enjoy reverse engineering and reimplementing different web services and APIs, as well as the developing smaller niche applications. Check out my work over at <a href="https://github.com/PretendoNetwork">Pretendo</a>!
+# About Me
 
-I also have experience developing for iOS, Android, Windows, and more.</p>
+Hello, I'm Jemma!
 
-<img src="https://github-readme-stats.vercel.app/api?username=caramelkat&show_icons=true&include_all_commits=true">
+I'm an Embedded Systems Engineer at RFA Engineering. Most of my work consists of hardware/simulation testing of embedded displays for construction equipment. 
 
-<h2>Experience with:</h2>
-<p float="left">
-	<img style="display:inline" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-	<img style="display:inline" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-	<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-	<img alt="Java" src="https://img.shields.io/badge/java-%23E34D00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-	<img style="display:inline" alt="C++" src="https://img.shields.io/badge/c++-%2343D8?style=for-the-badge&logo=c++&logoColor=white"/>
-	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+In my spare time I enjoy reverse engineering and reimplementing different web services and APIs, as well as creating other fun interactive experiences.
 
-<h2>Contact me:</h2>
-<ul class="wrapper list arrow-list icon-list">
-    <li class="shine">
-	<a href="https://jemsoftware.dev/files/Resume.pdf">
-	    <span>Resume</span>
-	</a>
-    </li>
-    <li>
-	<a href="https://www.linkedin.com/in/jemma-poffinbarger">
-	    <span>LinkedIn</span>
-	</a>
-    </li>
-    <li class="shine">
-	<a href="https://jemsoftware.dev">
-	    <span>Website</span>
-	</a>
-    </li>
-    <li>
-	<a href="mailto:contact@jemsoftware.dev">
-	    <span>E-Mail</span>
-	</a>
-    </li>
-    <li class="shine">
-	<a href="https://chitter.xyz/@Jemma">
-	    <span>Mastodon</span>
-	</a>
-    </li>
-    <li class="shine">
-	<a href="https://matrix.to/#/@jemma:jemverse.xyz">
-	    <span>Matrix</span>
-	</a>
-    </li>
-</ul>
+You might know me from:
+* 🎮 [Pretendo Network](https://github.com/PretendoNetwork): An open source Nintendo Network replacement for the Wii U and 3DS
+* 📱 [Tanuki's Stash](https://github.com/CaramelKat/Tanukis-Stash): A Furry image board client written in SwiftUI
+* 📖 [Nintendo eShop Title Database](https://caramelkat.github.io/Nintendo-eShop-Title-DB/): An database of all titles on the eShop for the Wii U and 3DS across all regions
+* 🌐 [Wii-U-XML-Generator](https://github.com/CaramelKat/Wii-U-XML-Generator): A program to create the Wii U Wara Wara Plaza files from posts on Reddit
+
+# Contact Me
+
+[![Website](https://img.shields.io/badge/Website-37a985)](https://jemsoftware.dev)
+[![Resume](https://img.shields.io/badge/Resume-ffd966)](https://jemsoftware.dev/files/Resume.pdf)
+[![Linkedin: jemma-poffinbarger](https://img.shields.io/badge/jemmapoffinbarger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jemma-poffinbarger/)](https://www.linkedin.com/in/jemma-poffinbarger/)
+![Github Follow](https://komarev.com/ghpvc/?username=caramelkat&color=0000E5&style=flat)
+
+# Experience With
+
+![](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
+![](https://img.shields.io/badge/TypeScript-gray?logo=typescript)
+![](https://img.shields.io/badge/Swift-gray?logo=swift)
+![](https://img.shields.io/badge/C++-gray?logo=cplusplus)
+![](https://img.shields.io/badge/Java-gray?logo=oracle)
+![](https://img.shields.io/badge/HTML5-gray?logo=HTML5)
+![](https://img.shields.io/badge/CSS-gray?logo=CSS3)
+![](https://img.shields.io/badge/Node.js-gray?logo=nodedotjs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=caramelkat&show_icons=true&include_all_commits=true)
