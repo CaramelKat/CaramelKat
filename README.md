@@ -8,7 +8,7 @@ In my spare time I enjoy reverse engineering and reimplementing different web se
 
 You might know me from:
 * 🎮 [Pretendo Network](https://github.com/PretendoNetwork): An open source Nintendo Network replacement for the Wii U and 3DS
-* 📱 [Tanuki's Stash](https://github.com/CaramelKat/Tanukis-Stash): A Furry image board client written in SwiftUI
+<!--* 📱 [Tanuki's Stash](https://github.com/CaramelKat/Tanukis-Stash): A Furry image board client written in SwiftUI-->
 * 📖 [Nintendo eShop Title Database](https://caramelkat.github.io/Nintendo-eShop-Title-DB/): An database of all titles on the eShop for the Wii U and 3DS across all regions
 * 🌐 [Wii-U-XML-Generator](https://github.com/CaramelKat/Wii-U-XML-Generator): A program to create the Wii U Wara Wara Plaza files from posts on Reddit
 
