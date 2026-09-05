@@ -2,7 +2,7 @@
 
 Hello, I'm Jemma!
 
-I'm an Embedded Systems Engineer at RFA Engineering. Most of my work consists of hardware/simulation testing of embedded displays for construction equipment. 
+I'm a Software PV&V Verification Champion at John Deere. Most of my work consists of hardware/simulation testing of embedded displays for construction equipment. 
 
 In my spare time I enjoy reverse engineering and reimplementing different web services and APIs, as well as creating other fun interactive experiences.
 
